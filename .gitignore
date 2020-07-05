@@ -102,3 +102,10 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+#vs
+*.vcxproj
+*.filters
+
+#folder
+bin/
+bin-int/
